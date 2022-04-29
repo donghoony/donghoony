@@ -1,7 +1,7 @@
 <h3>안녕하세요 🙋🏻‍♂️</h3>
 <p align=center><a href="https://solved.ac/profile/aru0504"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=aru0504" width="30%"></a></p>
 
-contact : aru0504@naver.com / master@hoony.me
+contact : aru0504@naver.com
 <!--
 **donghoony/donghoony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
