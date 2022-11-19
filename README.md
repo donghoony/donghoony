@@ -15,6 +15,7 @@
 - UCPC 2021 본선 진출 (일감호는우리가지킨다 팀): 본선 41위 (Solved 4)<br>
 - 22' 현대모비스 알고리즘 경진대회 학생부 예선 77위(555점)<br>
 - 22' ICPC Seoul Regional 본선 진출 ( Ilgam Rangers, Solved 5, 61st/323 )
+- 22' ICPC Seoul Regional 본선 49위 (Solved 4, 49th/72)
 <br>
 </p>
 
