@@ -16,7 +16,7 @@
 - 22' 현대모비스 알고리즘 경진대회 학생부 예선 77위(555점)<br>
 - 22' ICPC Seoul Regional 본선 진출 ( Ilgam Rangers, Solved 5, 61st/323 )<br>
 - 22' ICPC Seoul Regional 본선 49위 ( Solved 4, 49th/72 )<br>
-- 건국대학교 교내 학생 대상 프로그래밍 경진대회 (KUPC 2022) 개최, 문제 출제 (<a target="_blank" href=http://scoreboard.riroan.com/problemset.pdf>문제집</a>, <a target="_blank" href=http://scoreboard.riroan.com/solution.pdf>해설</a>, <a target="_blank" href=http://scoreboard.riroan.com/kupc>스코어보드</a>)<br>
+  - 건국대학교 교내 학생 대상 프로그래밍 경진대회 (<a target="_blank" href=https://github.com/riroan/KUPC>KUPC 2022</a>) 개최, 문제 출제 (<a target="_blank" href=http://scoreboard.riroan.com/problemset.pdf>문제집</a>, <a target="_blank" href=http://scoreboard.riroan.com/solution.pdf>해설</a>, <a target="_blank" href=http://scoreboard.riroan.com/kupc>스코어보드</a>)<br>
 - 23' 건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon 회장<br>
 <br>
 </p>
