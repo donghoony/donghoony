@@ -17,13 +17,14 @@
 <a target="_blank" href=https://www.acmicpc.net/problem/17490>일감호에 다리 놓기</a>,
 <a target="_blank" href=https://www.acmicpc.net/problem/17493>동아리 홍보하기</a><br>
 ✔ Wanted 주관 2021 Dev Carnival 금손<br>
-✔ UCPC 2021 본선 진출 (팀 일감호는우리가지킨다): 본선 41위 (Solved 4)<br>
+✔ UCPC 2022 본선 진출 (팀 일감호는우리가지킨다): 본선 41위 (Solved 4)<br>
 ✔ 22' 현대모비스 알고리즘 경진대회 학생부 예선 77위 (555점)<br>
 ✔ 22' ICPC Seoul Regional 본선 진출 (Ilgam Rangers, Solved 5, 61st/323)<br>
 ✔ 22' ICPC Seoul Regional 본선 49위 (Solved 4, 49th/72)<br>
 ✔ 건국대학교 교내 학생 대상 프로그래밍 경진대회 (<a target="_blank" href=https://github.com/riroan/KUPC>KUPC 2022</a>) 개최, 문제 출제 (<a target="_blank" href=http://scoreboard.riroan.com/problemset.pdf>문제집</a>, <a target="_blank" href=http://scoreboard.riroan.com/solution.pdf>해설</a>, <a target="_blank" href=http://scoreboard.riroan.com/kupc>스코어보드</a>)<br>
 ✔ 23' 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 수료 (23' 1월 - 23' 2월, 6주과정)<br>
 ✔ 23' 건국대학교 컴퓨터공학부 알고리즘 동아리 <strong>AlKon</strong> 회장<br>
+✔ UCPC 2023 예선 64/222위 (Solved 6)<br>
 <br>
 </p>
 
