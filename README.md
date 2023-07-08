@@ -24,7 +24,7 @@
 ✔ 건국대학교 교내 학생 대상 프로그래밍 경진대회 (<a target="_blank" href=https://github.com/riroan/KUPC>KUPC 2022</a>) 개최, 문제 출제 (<a target="_blank" href=http://scoreboard.riroan.com/problemset.pdf>문제집</a>, <a target="_blank" href=http://scoreboard.riroan.com/solution.pdf>해설</a>, <a target="_blank" href=http://scoreboard.riroan.com/kupc>스코어보드</a>)<br>
 ✔ 23' 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 수료 (23' 1월 - 23' 2월, 6주과정)<br>
 ✔ 23' 건국대학교 컴퓨터공학부 알고리즘 동아리 <strong>AlKon</strong> 회장<br>
-✔ UCPC 2023 예선 64/222위 (Solved 6)<br>
+✔ UCPC 2023 예선 64/222위 (팀 일감호는우리가지킨다, Solved 6)<br>
 <br>
 </p>
 
