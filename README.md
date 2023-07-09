@@ -25,7 +25,6 @@
 ✔ 23' 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 수료 (23' 1월 - 23' 2월, 6주과정)<br>
 ✔ 23' 건국대학교 컴퓨터공학부 알고리즘 동아리 <strong>AlKon</strong> 회장<br>
 ✔ UCPC 2023 예선 64/222위 (팀 일감호는우리가지킨다, Solved 6)<br>
-<br>
 </p>
 
 <p align=center><a target="_blank" href="https://solved.ac/profile/aru0504"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=aru0504"></a></p>
