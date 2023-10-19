@@ -30,6 +30,7 @@
 ✔ 23' 건국대학교 컴퓨터공학부 알고리즘 동아리 <strong>AlKon</strong> 회장<br>
 ✔ UCPC 2023 예선 64/222위 (팀 일감호는우리가지킨다, Solved 6)<br>
 ✔ 23' 여름방학 건국대학교 해커톤 '오케스트라 1악장' 참여 <a target="_blank" href=https://github.com/you-can-cook/Gobong>고봉밥 프로젝트</a> 백엔드 개발<br>
+✔ 2023 건국대학교 프로그래밍 경진대회 (KUPC 2023) 개최, 문제 출제
 </p>
 
 <p align=center><a target="_blank" href="https://solved.ac/profile/aru0504"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=aru0504"></a></p>
