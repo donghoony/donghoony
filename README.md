@@ -4,7 +4,7 @@
 
 ##### 🤷‍♂️ Currently interested in
 <p>
-  🌱Spring Boot <br>
+  🌱 Object-Oriented Programming <br>
   🎈 Competitive Programming <br>
   
 </p>
