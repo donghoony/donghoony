@@ -10,8 +10,6 @@
 </p>
 
 ##### 🏆 Achievement 
-<br>
-
 <p>
 ✔ 2019 건국대학교 알고리즘 동아리 <a target="_blank" href=https://www.acmicpc.net/category/detail/2061>ALPS 알고리즘 경진대회</a>
 출제: 
