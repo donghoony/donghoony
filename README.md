@@ -30,6 +30,8 @@
 ✔ 23' 여름방학 건국대학교 해커톤 '오케스트라 1악장' 참여 <a target="_blank" href=https://github.com/you-can-cook/Gobong>고봉밥 프로젝트</a> 백엔드 개발<br>
 ✔ 23' 건국대학교 프로그래밍 경진대회 (KUPC 2023) 개최, 문제 출제 <br>
 ✔ 23' ICPC Seoul Regional 본선 진출 (Ilgam Rangers, Solved 4, 47th/361)<br>
+✔ 23' ICPC Seoul Regional 본선 33위 (Solved 4, 33rd/74)<br>
+
 </p>
 
 <p align=center><a target="_blank" href="https://solved.ac/profile/aru0504"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=aru0504"></a></p>
