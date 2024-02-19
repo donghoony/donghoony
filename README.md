@@ -31,7 +31,7 @@
 ✔ 23' 건국대학교 프로그래밍 경진대회 (KUPC 2023) 개최, 문제 출제 <br>
 ✔ 23' ICPC Seoul Regional 본선 진출 (Ilgam Rangers, Solved 4, 47th/361)<br>
 ✔ 23' ICPC Seoul Regional 본선 33위 (Solved 4, 33rd/74)<br>
-✔ 24' <strong><a target="_blank" href=https://www.woowacourse.io>우아한테크코스</a></strong> 6기 (BE) <br>
+✔ 24' <strong><a target="_blank" href=https://www.woowacourse.io>우아한테크코스</a></strong> 웹 백엔드 6기: 아루 <br>
 
 </p>
 
