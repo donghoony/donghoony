@@ -16,8 +16,9 @@
 <a target="_blank" href=https://www.acmicpc.net/problem/17489>보물 찾기</a>,
 <a target="_blank" href=https://www.acmicpc.net/problem/17490>일감호에 다리 놓기</a>,
 <a target="_blank" href=https://www.acmicpc.net/problem/17493>동아리 홍보하기</a><br>
-✔ Wanted 주관 <a target="_blank" href=https://www.wanted.co.kr/themes/2021_dev_carnival>2021 Dev Carnival</a> 금손<br>
-✔ UCPC 2022 본선 진출 (팀 일감호는우리가지킨다): <a target="_blank" href=https://www.acmicpc.net/contest/spotboard/828>본선 41위</a> (Solved 4)<br>
+✔ 21' Wanted 주관 <a target="_blank" href=https://www.wanted.co.kr/themes/2021_dev_carnival>2021 Dev Carnival</a> 금손<br>
+✔ 22' <a target="_blank" href=https://www.acmicpc.net/contest/spotboard/827>UCPC 2022 예선</a> 70위 (팀 일감호는우리가지킨다, Solved 5, 70th/302)<br>
+✔ 22' <a target="_blank" href=https://www.acmicpc.net/contest/spotboard/828>UCPC 2022 본선</a> 41위 (Solved 4, 41st/55)<br>
 ✔ 22' 현대모비스 알고리즘 경진대회 학생부 예선 77위 (555점)<br>
 ✔ 22' ICPC Seoul Regional 예선 61위 (Ilgam Rangers, Solved 5, 61st/323)<br>
 ✔ 22' ICPC Seoul Regional 본선 49위 (Solved 4, 49th/72)<br>
