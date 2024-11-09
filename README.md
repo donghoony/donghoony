@@ -1,5 +1,5 @@
 <h3>Hello, World! 🙋🏻‍♂️</h3>
-  ✏ <a target="_blank" href=https://blog.hoony.me>Blog</a>
+📃 <a target="_blank" href="https://github.com/donghoony/donghoony/blob/main/resume.pdf">Resume</a> 🔍<a target="_blank" href="https://github.com/donghoony/donghoony/blob/main/portfolio.pdf">Portfolio</a> ✏ <a target="_blank" href=https://blog.hoony.me>Blog</a>
 
 ##### 🤷‍♂️ Currently interested in
 <p>
