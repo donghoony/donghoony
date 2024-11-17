@@ -32,4 +32,11 @@
 ✔ 23' ICPC Seoul Regional 본선 33위 (Solved 4, 33rd/74)<br>
 ✔ 24' <strong><a target="_blank" href=https://www.woowacourse.io>우아한테크코스</a></strong> 웹 백엔드 6기: 아루 <br>
 </p>
+
+##### 🔍 Open-source contributions
+- Spring boot
+  - Javadoc 오타 수정 [#41052](https://github.com/spring-projects/spring-boot/pull/41052)
+
+---
+
 <p align=center><a target="_blank" href="https://solved.ac/profile/aru0504"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=aru0504"></a></p>
