@@ -30,7 +30,7 @@
 ✔ 23' 건국대학교 프로그래밍 경진대회 (<a target="_blank" href=https://www.acmicpc.net/category/989>KUPC 2023</a>) 개최 및 출제, 검수<br>
 ✔ 23' ICPC Seoul Regional 예선 47위 (Ilgam Rangers, Solved 4, 47th/361)<br>
 ✔ 23' ICPC Seoul Regional 본선 33위 (Solved 4, 33rd/74)<br>
-✔ 24' <strong><a target="_blank" href=https://www.woowacourse.io>우아한테크코스</a></strong> 웹 백엔드 6기: 아루 <br>
+✔ 24' <strong><a target="_blank" href=https://www.woowacourse.io>우아한테크코스</a></strong> 6기 웹 백엔드 과정 수료, <a href="https://youtu.be/1VwRtsLDiyM target="_blank">객체지향과 추상화 수준</a> 테코톡 발표<br>
 </p>
 
 ##### 🔍 Open-source contributions
