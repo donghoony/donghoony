@@ -1,4 +1,5 @@
 <h3>Hello, World! 🙋🏻‍♂️</h3>
+
 📃 <a target="_blank" href="https://github.com/donghoony/donghoony/blob/main/resume.pdf">Resume</a> 🔍<a target="_blank" href="https://github.com/donghoony/donghoony/blob/main/portfolio.pdf">Portfolio</a> ✏ <a target="_blank" href=https://blog.hoony.me>Blog</a>
 
 ##### 🤷‍♂️ Currently interested in
@@ -35,7 +36,7 @@
 
 ##### 🔍 Open-source contributions
 - Spring boot
-  - Javadoc 오타 수정 [#41052](https://github.com/spring-projects/spring-boot/pull/41052)
+  - Fix typos on javadoc [#41052](https://github.com/spring-projects/spring-boot/pull/41052)
 
 ---
 
